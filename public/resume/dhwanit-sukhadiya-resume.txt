@@ -1,0 +1,53 @@
+DHWANIT SUKHADIYA
++1 (916) 202-3698 | dhwanitsukhadiya685@gmail.com | Sacramento, CA | linkedin.com/in/dhwanit-sukhadiya
+
+Cybersecurity & IT Support Specialist
+
+EDUCATION
+
+LDRP Institute of Technology and Research | August 2023 - April 2026
+Bachelor of Technology in Computer Engineering | CGPA: 7.4/10 | Ahmedabad, India
+
+VPMP Polytechnic | June 2020 - May 2023
+Diploma in Computer Engineering | CGPA: 8.5/10 | Ahmedabad, India
+
+SKILLS
+
+Networking: TCP/IP, DNS, DHCP, VLANs, Routing, Switching, LAN/WAN, VPN, Cisco CLI
+Systems: Windows 10/11, Windows Server 2022, Linux, Kali Linux, Active Directory
+Security: Wireshark, Nmap, Burp Suite, Metasploit, Vulnerability Assessment, OSINT
+Programming: Python, SQL, HTML, CSS
+Tools: Cisco Packet Tracer, VirtualBox, Microsoft Office
+Certification: Cyber Security (Grade A+) - H&B Computer Education
+
+EXPERIENCE
+
+Desktop & Network Support Intern | H&B Infotech | November 2025 - April 2026
+- Supported 25+ users with desktop, hardware, software, and Windows troubleshooting.
+- Assisted with LAN/WAN infrastructure, routers, switches, and access points.
+- Diagnosed network connectivity issues and restored services efficiently.
+- Managed user accounts, permissions, documentation, and IT assets.
+
+ACADEMIC PROJECTS
+
+Cybersecurity Home Lab
+- Built a virtualized enterprise lab for security testing and network troubleshooting.
+- Conducted packet analysis and vulnerability assessments to identify and mitigate risks.
+
+Active Directory Enterprise Lab
+- Deployed a Windows Server domain environment with full organizational structure.
+- Configured users, groups, OUs, and password policies for enterprise-level management.
+
+Network Monitoring & Troubleshooting Lab
+- Designed a multi-VLAN enterprise network with segmented traffic and proper routing.
+- Resolved connectivity issues using structured and systematic troubleshooting methods.
+- Simulated real-world network administration scenarios for practical skill development.
+
+Secure E-Commerce Website
+- Developed a secure web application with authentication and session management.
+- Implemented input validation and protections against common web attacks (XSS, SQLi).
+- Improved overall application security posture and enhanced usability for end users.
+
+PROFESSIONAL SUMMARY
+
+Graduate with hands-on experience in desktop support, networking, Windows Server administration, and cybersecurity operations. Passionate about building secure, reliable IT infrastructure and continuously expanding skills in offensive and defensive security.
